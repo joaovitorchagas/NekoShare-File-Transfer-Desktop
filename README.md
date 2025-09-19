@@ -16,14 +16,44 @@ NekoShare File Transfer is a file transfer application for Desktop PC that allow
 - pip
 
 ### Installation
-
 1. Install the dependencies:
 
 ```bash
 pip install -r requirements.txt
 ```
 
+2. Run the code:
+
+```bash
+python nekoshare-portable.py
+```
+
 ### Development
+1. Build for Windows .exe:
+
+```bash
+pyinstaller --onefile --windowed --icon="assets/icon.ico" --add-data "assets;assets" --name "NekoShare File (Desktop) Portable Win x64" nekoshare-portable.py
+```
+
+2. Package Directory Structure .deb:
+
+```
+Linux/nekoshare-portable-v1.0.0-x64/
+├── DEBIAN/
+│   └── control
+└── usr/
+    ├── bin/
+    │   └── nekoshare
+    └── share/
+        └── applications/
+        │   └── nekoshare.desktop
+        └── pixmaps/
+            └── nekoshare.png
+```
+Build the package on Linux Terminal
+```bash
+dpkg-deb --build nekoshare-portable-v1.0.0-x64
+```
 
 
 ## Screenshot
