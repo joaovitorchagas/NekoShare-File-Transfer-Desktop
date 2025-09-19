@@ -1,0 +1,14 @@
+tkinter
+customtkinter
+socket
+threading
+time
+uuid
+shutil
+pathlib
+datetime
+webbrowser
+flask
+qrcode
+pillow
+pyinstaller

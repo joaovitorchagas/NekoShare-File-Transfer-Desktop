@@ -1,0 +1,3 @@
+pip install pyinstaller
+
+dpkg-deb --build nekoshare-portable-v1.0.0-x64

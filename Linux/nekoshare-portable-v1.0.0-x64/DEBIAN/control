@@ -1,0 +1,8 @@
+Package: nekoshare
+Version: 1.0.0
+Section: utils
+Priority: optional
+Architecture: amd64
+Depends: python3, python3-tkinter
+Maintainer: rizkoimsar
+Description: PC To Mobile local file transfer application.

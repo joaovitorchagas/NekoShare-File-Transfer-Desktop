@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=NekoShare File (Desktop)
+Comment=PC To Mobile local file transfer application
+Exec=/usr/bin/nekoshare
+Terminal=false
+Type=Application
+Icon=nekoshare_icon
+Categories=Network;Utility;

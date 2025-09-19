@@ -1,0 +1,3 @@
+pip install pyinstaller
+
+pyinstaller --onefile --windowed --icon="assets/icon.ico" --add-data "assets;assets" --name "NekoShare File (Desktop) Portable Win x64" nekoshare-desktop.py
